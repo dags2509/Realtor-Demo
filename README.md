@@ -1,7 +1,4 @@
-Realtor-Demo/
-  index.html   ✅
-  (optional) style.css, script.js, _redirects
-  README.md
+
 <!doctype html>
 <html lang="en">
 <head>
